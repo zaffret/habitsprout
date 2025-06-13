@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243535250618",
+    "project_id": "habitsprout",
+    "storage_bucket": "habitsprout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243535250618:android:f48987eef705b189882e83",
+        "android_client_info": {
+          "package_name": "com.habitsprout.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIJsPC3TyhB_XemzZ4bJalTZQuJnMuB20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
